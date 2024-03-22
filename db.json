@@ -1,0 +1,34 @@
+{"vegs":
+[
+    {
+        "vegId": "1",
+        "name": "Cabbage", 
+        "price": "3.5", 
+        "image": "https://avatars.mds.yandex.net/i?id=dd183875c87da88350a05381cbc1138d_sr-5888429-images-thumbs&n=13", 
+        "quantity": "42"
+    },
+    {
+        "vegId": "2",
+        "name": "Сauliflower", 
+        "price": "4.2", 
+        "image": "https://www.aftamarket.com.tr/karnibahar-sebzeler-manav-30643-33-K.jpg/", 
+        "quantity": "14"
+
+    },
+    {
+        "vegId": "3",
+        "name": "Tomato", 
+        "price": "3.8", 
+        "image": "https://avatars.mds.yandex.net/get-mpic/1865723/img_id4639061631494745231.jpeg/6hq", 
+        "quantity": "0"
+    },
+    {
+        "vegId": "4",
+        "name": "Eggplant", 
+        "price": "2.7", 
+        "image": "https://avatars.mds.yandex.net/i?id=c6398b41245a0c2c6d73bbdf9321e9a7_sr-5845211-images-thumbs&n=13", 
+        "quantity": "11"
+    }
+]
+    
+}
